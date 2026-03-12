@@ -1,3 +1,5 @@
 body{background-color:aliceblue; font-family:Arial, Helvetica, sans-serif;}
 p{line-height: 2.25em;}
 img {width:300px; float:left; border: solid 3px rgb(92, 92, 207); border-radius: 9px; margin-right: 20px;}
+#gymnastics{float: right; border: solid 3px grey}
+#brain{border: solid 3px navy}
